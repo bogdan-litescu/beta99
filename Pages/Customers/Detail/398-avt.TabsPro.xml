@@ -7,7 +7,6 @@
     <cachemethod />
     <cachetime>0</cachetime>
     <color />
-    <containersrc />
     <displayprint>true</displayprint>
     <displaysyndicate>false</displaysyndicate>
     <displaytitle>true</displaytitle>
@@ -120,7 +119,7 @@
         &lt;Module&gt;
           &lt;ModuleId&gt;405&lt;/ModuleId&gt;
           &lt;ModuleTitle&gt;Contacts Listing&lt;/ModuleTitle&gt;
-          &lt;ModuleOrder&gt;5&lt;/ModuleOrder&gt;
+          &lt;ModuleOrder&gt;3&lt;/ModuleOrder&gt;
           &lt;DisplayTitle&gt;False&lt;/DisplayTitle&gt;
         &lt;/Module&gt;
       &lt;/Modules&gt;
